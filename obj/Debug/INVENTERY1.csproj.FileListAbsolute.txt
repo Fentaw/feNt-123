@@ -1,0 +1,81 @@
+c:\users\kiot\documents\visual studio 2012\Projects\INVENTERY1\INVENTERY1\bin\Debug\INVENTERY1.exe.config
+E:\fentaw\INVENTERY1\INVENTERY1\bin\Debug\INVENTERY1.exe.config
+E:\fentaw\INVENTERY1\INVENTERY1\bin\Debug\INVENTERY1.exe
+E:\fentaw\INVENTERY1\INVENTERY1\bin\Debug\INVENTERY1.pdb
+E:\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.Properties.Resources.resources
+E:\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.csproj.GenerateResource.Cache
+E:\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.exe
+E:\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.pdb
+E:\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.LOGINFORM.resources
+E:\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.SECONDFORM.resources
+E:\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.HOMPAGEFORM.resources
+E:\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.SEARCH_FORM.resources
+E:\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.CUSTEMERFORM.resources
+C:\2ND YEAR SECOND SIMISTER DOCMENT\OOSAD\fentaw file\fentaw\INVENTERY1\INVENTERY1\bin\Debug\INVENTERY1.exe.config
+C:\2ND YEAR SECOND SIMISTER DOCMENT\OOSAD\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.exe
+C:\2ND YEAR SECOND SIMISTER DOCMENT\OOSAD\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.pdb
+C:\2ND YEAR SECOND SIMISTER DOCMENT\OOSAD\fentaw file\fentaw\INVENTERY1\INVENTERY1\bin\Debug\INVENTERY1.exe
+C:\2ND YEAR SECOND SIMISTER DOCMENT\OOSAD\fentaw file\fentaw\INVENTERY1\INVENTERY1\bin\Debug\INVENTERY1.pdb
+C:\2ND YEAR SECOND SIMISTER DOCMENT\OOSAD\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.CUSTEMERFORM.resources
+C:\2ND YEAR SECOND SIMISTER DOCMENT\OOSAD\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.LOGINFORM.resources
+C:\2ND YEAR SECOND SIMISTER DOCMENT\OOSAD\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.HOMPAGEFORM.resources
+C:\2ND YEAR SECOND SIMISTER DOCMENT\OOSAD\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.Properties.Resources.resources
+C:\2ND YEAR SECOND SIMISTER DOCMENT\OOSAD\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.csproj.GenerateResource.Cache
+C:\2ND YEAR SECOND SIMISTER DOCMENT\OOSAD\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.csprojResolveAssemblyReference.cache
+C:\2ND YEAR SECOND SIMISTER DOCMENT\OOSAD\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.MDIParent1.resources
+C:\2ND YEAR SECOND SIMISTER DOCMENT\OOSAD\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.REGISTER_FORM.resources
+C:\2ND YEAR SECOND SIMISTER DOCMENT\OOSAD\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.CHEGE_PASSWORDfORM.resources
+C:\2ND YEAR SECOND SIMISTER DOCMENT\OOSAD\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.PURCHASEFORM.resources
+F:\fentaw file\fentaw\INVENTERY1\INVENTERY1\bin\Debug\INVENTERY1.exe.config
+F:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.exe
+F:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.pdb
+F:\fentaw file\fentaw\INVENTERY1\INVENTERY1\bin\Debug\INVENTERY1.exe
+F:\fentaw file\fentaw\INVENTERY1\INVENTERY1\bin\Debug\INVENTERY1.pdb
+F:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.CUSTEMERFORM.resources
+F:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.PURCHASEFORM.resources
+F:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.LOGINFORM.resources
+F:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.HOMPAGEFORM.resources
+F:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.MDIParent1.resources
+F:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.CHEGE_PASSWORDfORM.resources
+F:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.csproj.GenerateResource.Cache
+F:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.MATREGISTERFORM.resources
+E:\fentaw file\fentaw\INVENTERY1\INVENTERY1\bin\Debug\INVENTERY1.exe.config
+E:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.exe
+E:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.pdb
+F:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.Properties.Resources.resources
+H:\fentaw file\fentaw\INVENTERY1\INVENTERY1\bin\Debug\INVENTERY1.exe.config
+H:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.exe
+H:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.pdb
+H:\fentaw file\fentaw\INVENTERY1\INVENTERY1\bin\Debug\INVENTERY1.exe
+H:\fentaw file\fentaw\INVENTERY1\INVENTERY1\bin\Debug\INVENTERY1.pdb
+H:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.csprojResolveAssemblyReference.cache
+H:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.CUSTEMERFORM.resources
+H:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.MATREGISTERFORM.resources
+H:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.Properties.Resources.resources
+H:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.PURCHASEFORM.resources
+H:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.LOGINFORM.resources
+H:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.HOMPAGEFORM.resources
+H:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.MDIParent1.resources
+H:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.CHEGE_PASSWORDfORM.resources
+H:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.csproj.GenerateResource.Cache
+F:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.DEVELOPERPAGE.resources
+F:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.NEWACCOUNT.resources
+G:\fentaw file\fentaw\INVENTERY1\INVENTERY1\bin\Debug\INVENTERY1.exe.config
+G:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.exe
+G:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.pdb
+G:\fentaw file\fentaw\INVENTERY1\INVENTERY1\bin\Debug\INVENTERY1.exe
+G:\fentaw file\fentaw\INVENTERY1\INVENTERY1\bin\Debug\INVENTERY1.pdb
+G:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.csprojResolveAssemblyReference.cache
+G:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.CUSTEMERFORM.resources
+G:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.DEVELOPERPAGE.resources
+G:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.MATREGISTERFORM.resources
+G:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.NEWACCOUNT.resources
+G:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.Properties.Resources.resources
+G:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.PURCHASEFORM.resources
+G:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.LOGINFORM.resources
+G:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.HOMPAGEFORM.resources
+G:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.MDIParent1.resources
+G:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.CHEGE_PASSWORDfORM.resources
+G:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.csproj.GenerateResource.Cache
+F:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.RETURN_MATFORM.resources
+F:\fentaw file\fentaw\INVENTERY1\INVENTERY1\obj\Debug\INVENTERY1.csprojResolveAssemblyReference.cache
